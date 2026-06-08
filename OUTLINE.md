@@ -1,7 +1,7 @@
 # Jupyter Book: mystmd (https://mystmd.org) proposal ideation
 
 - PI: Chris Holdgraf (2I2C)
-- Supported by: Stéfan van der Walt (BIDS, University of California) and ... (add your name here)
+- Supported by: Stéfan van der Walt (BIDS, University of California) and Rowan Cockett (Curvenote)... (add your name here)
 
 ## Questions
 
@@ -67,6 +67,11 @@ Ideas for the proposal.
 
 - Founder scikit-image, co-founder Scientific Python
 - Core team member: NumPy, SciPy, scikit-image, NetworkX, Jupyter Book (mystmd)
+
+### Rowan Cockett
+
+- Founder: Curvenote, Countinuous Science Foundation, SimPEG
+- Core Team Member: MyST
 
 ### Add yourself
 
